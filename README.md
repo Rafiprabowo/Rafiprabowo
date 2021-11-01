@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rafiprabowo
-- 👀 I’m interested in Game Developer or Web Development
+- 👀 I’m interested in 
 - 🌱 I’m currently learning Basic skill progaming and learn progaming languange c++
-- 💞️ I’m looking to collaborate on BUMN company or it company
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me follow me on ig rafiprabowo_
 
 <!---
