@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafiprabowo
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Basic skill progaming and learn progaming languange c++
+- 👀 I’m interested in Software Engineer
+- 🌱 I’m currently learning Basic skill progaming and learn progaming languange java
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me follow me on ig rafiprabowo_
 
